@@ -1,0 +1,5 @@
+hvac==2.3.0
+pip-chill==1.0.3
+psycopg2==2.9.9
+python-dotenv==1.0.1
+sqlalchemy==2.0.31
